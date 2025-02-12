@@ -40,7 +40,7 @@ public class FindNthElementFromTheEnd {
         list.add("E");
         // target Nth is D
         int N = 2;
-        //Displaying Nth element 
+        //Displaying Nth element
         System.out.println(findNthElement(list,N));
     }
 }
