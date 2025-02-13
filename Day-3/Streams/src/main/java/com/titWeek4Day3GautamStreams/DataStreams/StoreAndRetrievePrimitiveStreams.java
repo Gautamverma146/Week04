@@ -16,7 +16,7 @@ public class StoreAndRetrievePrimitiveStreams {
 
             dos.writeInt(456);
             dos.writeUTF("Gautam");
-            dos.writeDouble(3.5); 
+            dos.writeDouble(3.5);
 
             System.out.println("Student data stored in " + fileName);
 
