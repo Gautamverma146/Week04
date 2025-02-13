@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6f99f5e-3574-4abf-ac8d-5b4fb6c2938d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2ssk0BNKU3CMhxMwTUJj8JvxvWx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Day02-Collections",
+    "last_opened_file_path": "C:/Gautam/Week-3/Day_6/TimeANdSpaceComplexity",
+    "onboarding.tips.debug.path": "C:/Gautam/Week-4/Day-1/generics/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ResumeScreeningApp (1)">
+    <configuration name="PersonalizedMealPlanGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.titWeek04Day01GautamGenerics.System.Problem04PersonalizedMealPlanGenerator.PersonalizedMealPlanGenerator" />
+      <module name="generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.titWeek04Day01GautamGenerics.System.Problem04PersonalizedMealPlanGenerator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResumeScreeningApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.titWeek04Day01GautamGenerics.System.Problem05ResumeScreeningApp.ResumeScreeningApp" />
+      <module name="generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.titWeek04Day01GautamGenerics.System.Problem05ResumeScreeningApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResumeScreeningApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.titWeek04Day01GautamGenerics.System.Problem05ResumeScreeningApp.ResumeScreeningApp" />
+      <module name="generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.titWeek04Day01GautamGenerics.System.Problem05ResumeScreeningApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniversityManagementSystem (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.titWeek04Day01GautamGenerics.System.Problem03UniversityCourseManagement.UniversityManagementSystem" />
+      <module name="generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.titWeek04Day01GautamGenerics.System.Problem03UniversityCourseManagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniversityManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.titWeek04Day01GautamGenerics.System.Problem03UniversityCourseManagement.UniversityManagementSystem" />
+      <module name="generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.titWeek04Day01GautamGenerics.System.Problem03UniversityCourseManagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ResumeScreeningApp (1)" />
+        <item itemvalue="Application.ResumeScreeningApp" />
+        <item itemvalue="Application.PersonalizedMealPlanGenerator" />
+        <item itemvalue="Application.UniversityManagementSystem" />
+        <item itemvalue="Application.UniversityManagementSystem (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6f99f5e-3574-4abf-ac8d-5b4fb6c2938d" name="Changes" comment="" />
+      <created>1739251446977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739251446977</updated>
+    </task>
+    <servers />
+  </component>
+</project>
