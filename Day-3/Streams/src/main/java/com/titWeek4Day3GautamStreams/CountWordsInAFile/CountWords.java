@@ -6,6 +6,7 @@ import java.util.*;
 public class CountWords {
 
     public static void main(String[] args) throws IOException {
+
         String fileName = "C:/Gautam/Week-4/Day-3/Streams/src/main/java/com/titWeek4Day3GautamStreams/CountWordsInAFile/words.txt";
 
         try (BufferedReader br = new BufferedReader(new FileReader(fileName))) {
@@ -24,6 +25,7 @@ public class CountWords {
                         wordCounts.put(word, wordCounts.getOrDefault(word, 0) + 1);
                     }
                 }
+
             }
 
             // Sort words by frequency (descending)
