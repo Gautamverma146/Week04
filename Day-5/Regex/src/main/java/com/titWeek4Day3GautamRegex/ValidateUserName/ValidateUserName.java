@@ -26,7 +26,7 @@ public class ValidateUserName {
             return false;
         }
 //regex for username Validating
-        String regex = "^[a-zA-Z][a-zA-Z0-9_]{4,14}";
+        String regex = "^[a-zA-Z][a-zA-Z0-9_]{4,14}$";
         Pattern pattern = Pattern.compile(regex);
         Matcher matcher = pattern.matcher(username);
         return matcher.matches();
